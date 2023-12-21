@@ -8,3 +8,4 @@
 ![7](https://github.com/atultembhekar/Unix-command-line-Handwritten-Notes/assets/127327717/8baa9114-3968-46ec-b570-591853a3997c)
 ![8](https://github.com/atultembhekar/Unix-command-line-Handwritten-Notes/assets/127327717/21d1c0ff-ae3a-466d-8715-f6cad651de1f)
 ![9](https://github.com/atultembhekar/Unix-command-line-Handwritten-Notes/assets/127327717/4cbc05ee-538f-4b5b-af26-64862204c816)
+![10](https://github.com/atultembhekar/Unix-command-line-Handwritten-Notes/assets/127327717/40c7a938-8fec-4476-aab1-11f102b3832b)
